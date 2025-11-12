@@ -151,13 +151,13 @@ def signature_guessing_game():
                     backdrop-filter: blur(15px);
                     animation: floatIn 1s ease-out;
                 ">
-                    <div style="font-size: 6rem; margin-bottom: 20px; 
+                    <div style="font-size: 6rem; margin-bottom: 20px;
                                 animation: glow 2s ease-in-out infinite alternate;
                                 filter: drop-shadow(0 0 40px rgba(120, 120, 120, 1));">
                         ✍️
                     </div>
                     <h1 style="
-                        font-size: 4.5rem; 
+                        font-size: 4.5rem;
                         margin-bottom: 20px;
                         background: linear-gradient(135deg, #ffffff 0%, #e0e0e0 50%, #c0c0c0 100%);
                         -webkit-background-clip: text;
@@ -377,7 +377,6 @@ def signature_guessing_game():
                         font-size: 3rem;
                         background: linear-gradient(135deg, #ffffff 0%, #e0e0e0 100%);
                         -webkit-background-clip: text;
-                        -webkit-text-fill-color: transparent;
                         background-clip: text;
                         font-weight: 900;
                         margin-bottom: 10px;
@@ -399,9 +398,9 @@ def signature_guessing_game():
                 <div style="text-align: center; margin-bottom: 25px;">
                     <span style="
                         background: linear-gradient(135deg, rgba(60, 60, 60, 0.4) 0%, rgba(40, 40, 40, 0.4) 100%);
-                        color: #ffffff; 
-                        padding: 15px 35px; 
-                        border-radius: 25px; 
+                        color: #ffffff;
+                        padding: 15px 35px;
+                        border-radius: 25px;
                         font-weight: 800;
                         font-size: 1.4rem;
                         border: 2px solid rgba(120, 120, 120, 0.6);
@@ -438,7 +437,7 @@ def signature_guessing_game():
                 backdrop-filter: blur(15px);
             ">
                 <h3 style="
-                    color: #ffffff; 
+                    color: #ffffff;
                     margin: 0 0 20px 0;
                     font-size: 1.8rem;
                     font-weight: 700;
@@ -555,7 +554,7 @@ def signature_guessing_game():
                 st.markdown(
                     """
                     <div style="
-                        text-align: center; 
+                        text-align: center;
                         margin-bottom: 20px;
                         background: linear-gradient(135deg, rgba(60, 60, 60, 0.3) 0%, rgba(40, 40, 40, 0.3) 100%);
                         padding: 20px;
@@ -564,8 +563,8 @@ def signature_guessing_game():
                         box-shadow: 0 10px 30px rgba(0,0,0,0.5);
                     ">
                         <p style="
-                            font-size: 1.5rem; 
-                            color: #ffffff; 
+                            font-size: 1.5rem;
+                            color: #ffffff;
                             font-weight: 800;
                             margin: 0;
                             text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
